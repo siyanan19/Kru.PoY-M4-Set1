@@ -7,4 +7,15 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+score = int(input("your score:"))
+score >= 80
+int(print("A"))
+score = int(print(70-0))
+score >= 70
+int(print("B"))
+score = int(print())
+score >=60
+int(print("C"))
+score = int(print())
+score >=50
+int(print("D"))
