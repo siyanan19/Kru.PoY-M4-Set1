@@ -7,4 +7,5 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+age = int(input("your age"))
+age <=12
