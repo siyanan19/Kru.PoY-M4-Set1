@@ -6,4 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-n = int(input())
+n = int(input(" your n "))
+เลขคู่ = int(input("Even"))
+เลขคี่ = int(input("Odd"))
